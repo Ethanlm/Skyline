@@ -10,7 +10,7 @@ This is an Android game we developed using Cocos2d-x engine in 2013. We got into
 # Links
 [Competition website](http://www.google.cn/university/androidchallenge/2013/index.html)
 
-[Video demo](https://www.youtube.com/watch?v=NgCPRy1-j3A&feature=youtu.be)
+[Video demo](https://youtu.be/NgCPRy1-j3A)
 
 You can download directly from [here](http://www.google.cn/university/androidchallenge/2013/files/Skyline.apk.zip)
 
