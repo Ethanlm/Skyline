@@ -12,4 +12,4 @@ This is an Android game we developed in 2013. We got into the final and won the 
 
 [Video demo](https://www.youtube.com/watch?v=NgCPRy1-j3A&feature=youtu.be)
 
-
+You can also download directly from [here](http://www.google.cn/university/androidchallenge/2013/files/Skyline.apk.zip)
