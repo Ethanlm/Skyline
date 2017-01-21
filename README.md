@@ -2,6 +2,8 @@
 
 This is an Android game we developed in 2013. We got into the final and won the Google Award of Excellence in Chinese Undergraduate Android Development Challenge. 
 
+[](/img/Skyline.png)
+
 # Links
 [Competition website](http://www.google.cn/university/androidchallenge/2013/index.html)
 
