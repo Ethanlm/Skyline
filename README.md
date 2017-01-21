@@ -2,7 +2,7 @@
 
 This is an Android game we developed in 2013. We got into the final and won the Google Award of Excellence in Chinese Undergraduate Android Development Challenge. 
 
-<img src="/img/lda/Skyline-1.png" width="30%" height="30%">
+<img src="/img/Skyline-1.png" width="30%" height="30%">
 
 ![skyline1](/img/Skyline-1.png)
 ![skyline2](/img/Skyline-2.png)
